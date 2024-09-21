@@ -17,9 +17,9 @@
 
 ## About Me
 
-Hello! I'm Ruben Sierra, an aspiring programmer on a journey of self-discovery in the tech world.
+Hello! I'm Ruben Sierra, a programmer on a journey of self-discovery in the tech world.
 
-🎓 My tech journey began in 2022 when I started studying "Técnico Superior en Administración de Sistemas Informáticos en Red" (Higher Technician in Network Computer Systems Administration). This experience ignited my curiosity and passion for programming.
+🎓 My tech journey began in 2022 when I started studying Higher Technician in Network Computer Systems Administration. This experience ignited my curiosity and passion for programming.
 
 🚀 Currently, I'm honing my skills at 42 Barcelona, where I'm diving deep into various programming languages and technologies.
 

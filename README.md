@@ -108,15 +108,3 @@ Arquitectura de microservicios con patrones modernos de diseño.
 
 ---
 
-
-### 🌐 Portafolio
-
-Visita mi portafolio completo: **[porfoliodef.vercel.app](https://porfoliodef.vercel.app)**
-
----
-
-<div align="center">
-
-*"La automatización es la clave para una infraestructura escalable y confiable"*
-
-</div>

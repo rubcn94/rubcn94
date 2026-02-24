@@ -1,84 +1,77 @@
 # Hola, soy Rubén 👋
 
-## Administrador de Sistemas | Infraestructura & Redes | SRE
+## Aspirante a Analista SOC | Ciberseguridad | Monitorización & Respuesta a Incidentes
 
-Especializado en infraestructura Windows Server, redes corporativas y plataformas de monitorización. Apasionado por la automatización y las soluciones cloud-native.
+Técnico ASIR con enfoque en ciberseguridad defensiva. Actualmente formándome como analista SOC a través de TryHackMe y preparando el CompTIA Security+. Experiencia previa en entornos operativos de alta exigencia donde la monitorización, la detección de anomalías y la respuesta rápida eran el día a día. Ahora aplico esa mentalidad a la protección de sistemas y personas.
 
 ---
 
-### 🚀 Áreas de Especialización
+### 🛡️ Ciberseguridad & Blue Team
 
-```yaml
-Infraestructura:
+```
+SOC & Análisis:
+  - Triage de alertas y análisis de logs (Elastic SIEM, Splunk)
+  - Detección de amenazas con MITRE ATT&CK Framework
+  - Creación de reglas Sigma para detección de comportamiento
+  - Análisis de malware y detección de C2 beaconing
+  - Investigación de APTs y correlación de indicadores (IoCs)
+
+Análisis de Red:
+  - Wireshark, Zeek
+  - Análisis de tráfico y detección de anomalías
+  - Segmentación de red y protocolos TCP/IP
+
+Herramientas Defensivas:
+  - Wazuh (HIDS)
+  - OSINT y Threat Intelligence
+  - Hardening de sistemas Windows/Linux
+
+En preparación:
+  - CompTIA Security+ (SY0-701)
+```
+
+### 🖥️ Sistemas & Infraestructura
+
+```
+Sistemas:
   - Windows Server (Active Directory, GPO, LDAP, Kerberos)
-  - Ubuntu Server & Linux
+  - Linux (Ubuntu Server, Kali Linux)
+  - Virtualización (VirtualBox, Docker)
 
 Redes:
-  - DNS, DHCP, TCP/IP
+  - DNS, DHCP, TCP/IP, VPN
+  - Configuración de switches/routers
   - Servicios de red corporativos
-  - VPN y seguridad de red
-
-SRE & Monitorización:
-  - Prometheus & Grafana
-  - Kubernetes
-  - Plataformas de observabilidad
 
 Automatización:
   - PowerShell scripting
   - Python automation
   - Bash scripting
 
-Bases de Datos:
-  - MySQL
-  - SQL Server
+Monitorización:
+  - Prometheus & Grafana
+  - Kubernetes
+  - Plataformas de observabilidad
 ```
 
 ---
 
 ### ⭐ Proyectos Destacados
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🔧 [Windows Automation Scripts](https://github.com/rubcn94/windows-automation-scripts)
-Colección de scripts PowerShell para automatización de tareas administrativas en entornos Windows Server.
-
-**Stack:** PowerShell, Windows Server, Active Directory
-
-</td>
-<td width="50%">
-
-#### 📊 [SRE Monitoring Platform](https://github.com/rubcn94/-sre-monitoring-platform)
-Plataforma de monitorización production-grade con stack completo de observabilidad.
-
-**Stack:** Python, Prometheus, Grafana, Kubernetes
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🏨 [Hotel Management Fullstack](https://github.com/rubcn94/hotelfullstack)
-Sistema completo de gestión hotelera con backend Java Spring Boot y frontend React.
-
-**Stack:** Java, Spring Boot, React, MySQL
-
-</td>
-<td width="50%">
-
-#### ⚙️ [Microservices Application](https://github.com/rubcn94/MicroserviceApp)
-Arquitectura de microservicios con patrones modernos de diseño.
-
-**Stack:** Java, Spring Boot, Docker
-
-</td>
-</tr>
-</table>
+|  |  |
+| --- | --- |
+| 🛡️ **SOC Lab Casero** Entorno virtualizado para prácticas de detección y respuesta: Kali Linux, Metasploitable, Windows Server con AD, herramientas SIEM. **Stack:** VirtualBox, Kali, Elastic, Wazuh | 📊 [SRE Monitoring Platform](https://github.com/rubcn94/-sre-monitoring-platform) Plataforma de monitorización production-grade con stack completo de observabilidad. **Stack:** Python, Prometheus, Grafana, Kubernetes |
+| 🔧 [Windows Automation Scripts](https://github.com/rubcn94/windows-automation-scripts) Scripts PowerShell para automatización en entornos Windows Server y Active Directory. **Stack:** PowerShell, Windows Server, AD | 🏨 [Hotel Management Fullstack](https://github.com/rubcn94/hotelfullstack) Sistema completo de gestión hotelera con arquitectura full-stack. **Stack:** Java, Spring Boot, React, MySQL |
 
 ---
 
 ### 🛠️ Stack Tecnológico
+
+#### Seguridad & SOC
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 #### Sistemas & Infraestructura
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -91,20 +84,23 @@ Arquitectura de microservicios con patrones modernos de diseño.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Monitorización & SRE
+#### Monitorización
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 #### Desarrollo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubcn94)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubcn94@gmail.com)
+
+---
+
+*Actualmente buscando prácticas FCT en ciberseguridad / SOC / monitorización en Barcelona.*

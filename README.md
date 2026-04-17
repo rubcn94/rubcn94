@@ -266,9 +266,9 @@
 
 ## 🎯 Actualmente
 
-- 🎓 Preparando **Security+ SY0-701** (8 semanas de estudio intensivo)
+- 🎓 Preparando **CySA+ (CS0-003)**  **Security+ SY0-701** 710/750 
 - 🔬 Investigando **AI Security** (OWASP LLM, prompt injection, model extraction)
-- 🏗️ Construyendo **home lab purple team** (Kali + pfSense + Wazuh + AD)
+- 🏗️ Construyendo **RAG**
 - 📝 Buscando **prácticas FCT** en SOC / Purple Team / Pentesting en Barcelona
 
 ---

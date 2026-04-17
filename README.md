@@ -83,8 +83,7 @@
 - **CompTIA Security+ SY0-701** 710/900
 
 ### Roadmap 12-24 meses
-1. **BTL1** o **CySA+**
-2. **SC-200 Microsoft Sentinel**
+1. **CySA+**
 3. **AWS Security Specialty**
 4. **OSCP**
 

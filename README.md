@@ -180,7 +180,13 @@ App educativa de vocabulario
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubcn94)
 
 ---
-## 📜 Licencia Todos los proyectos en este repositorio están bajo licencia **MIT** salvo que se indique lo contrario. ⚠️ **Uso responsable:** Las herramientas de pentesting están diseñadas **exclusivamente** para auditorías con **autorización escrita**. El uso no autorizado es ilegal. --- ## 🙏 Reconocimientos Proyectos desarrollados como parte de mi especialización en **ciberseguridad defensiva** y **AI security**. Basados en: - **MITRE ATT&CK Framework** - **OWASP Testing Guide** - **CIS Benchmarks** - **NIST Cybersecurity Framework** - **MITRE ATLAS** (AI/ML threats)
+## 📜 Licencia 
+Todos los proyectos en este repositorio están bajo licencia **MIT** salvo que se indique lo contrario.
+
+⚠️ **Uso responsable:** Las herramientas de pentesting están diseñadas **exclusivamente** para auditorías con **autorización escrita**. El uso no autorizado es ilegal. 
+--- 
+## 🙏 Reconocimientos 
+Proyectos desarrollados como parte de mi especialización en **ciberseguridad defensiva** y **AI security**. Basados en: - **MITRE ATT&CK Framework** - **OWASP Testing Guide** - **CIS Benchmarks** - **NIST Cybersecurity Framework** - **MITRE ATLAS** (AI/ML threats)
 
 ---
 

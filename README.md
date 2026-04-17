@@ -92,9 +92,7 @@
 
 ## 📂 Portafolio de Proyectos
 
-### 🟣 [Purple Team Security Suite]([./Termux_Purple_Team_Project](https://github.com/rubcn94/Purple_Team_Analytics))
-**Plataforma profesional de auditoría de seguridad** — Android (Termux) + Kali Linux integration
-
+### 🟣 [Purple Team Security Suite](https://github.com/rubcn94/Purple_Team_Analytics)**Plataforma profesional de auditoría de seguridad** — Android (Termux) + Kali Linux integration
 **Características principales:**
 - ✅ Suite completa de pentesting desde tablet Android
 - ✅ 12+ módulos especializados (WiFi, Bluetooth, OSINT, HTTP, SSL/TLS, compliance)

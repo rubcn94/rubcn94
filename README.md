@@ -76,12 +76,12 @@
 ## 🎓 Certificaciones & Formación
 
 ### En progreso
-- **CompTIA Security+ SY0-701** (Examen: mayo 2026)
-- **OWASP Top 10 for LLMs** (Research activo)
-- **MITRE ATLAS Framework** (AI/ML threat modeling)
+
+- **CySA+ (CS0-003)**
 
 ### Completadas
 - **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** ✅
+- **CompTIA Security+ SY0-701** 710/900
 
 ### Roadmap 12-24 meses
 1. **BTL1** o **CySA+** — Consolidación blue team

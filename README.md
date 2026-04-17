@@ -154,7 +154,7 @@ Colección de scripts de automatización
 
 ---
 
-### 📱 [ReservaApp](./ReservaApp)
+### 📱 [ReservaApp](https://github.com/rubcn94/ReservaApp)
 Aplicación Android con Firebase
 
 ---

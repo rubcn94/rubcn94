@@ -2,7 +2,7 @@
 
 ## Analista SOC | Purple Team | AI Security Specialist
 
-**Técnico ASIR** especializado en **ciberseguridad defensiva** y **purple team operations**. Enfoque en análisis de amenazas, pentesting autorizado, y desarrollo de herramientas de automatización para seguridad. Preparando **CompTIA Security+ SY0-701** con roadmap hacia **AI Security Specialist** y **Cloud Security Engineer**.
+**Técnico ASIR** especializado en **ciberseguridad defensiva** y **purple team operations**. Enfoque en análisis de amenazas, pentesting autorizado, y desarrollo de herramientas de automatización para seguridad. Preparando **CySA+ (CS0-003)** con roadmap hacia **AI Security Specialist** y **Cloud Security Engineer**.
 
 📍 Barcelona, España | 🎯 Objetivo: SOC Analyst → AI Red Teamer
 🔗 [LinkedIn](https://www.linkedin.com/in/rubcn94) | 📧 rubcn94@gmail.com

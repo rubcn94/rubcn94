@@ -159,11 +159,6 @@ Aplicación Android con Firebase
 
 ---
 
-### 🇰🇷 [Billlie English Test](./billlie_english)
-App educativa de vocabulario
-
----
-
 ## 🎯 Actualmente
 
 - CySA+ en preparación
